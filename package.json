@@ -1,0 +1,16 @@
+{
+  "name": "pomodify",
+  "version": "1.0.0",
+  "description": "Create pomodori with your Spotify playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "spotify",
+    "react"
+  ],
+  "author": "Lucas Personnaz <lucas.personnaz@gmail.com>",
+  "license": "ISC"
+}
